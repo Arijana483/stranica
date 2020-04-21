@@ -1,0 +1,41 @@
+body
+{
+    background-color: lightblue;
+    text-align: justify;
+    font-family: Verdana;
+}
+
+p {
+    font-family: Verdana,Helvetica,sans-serif;
+    font-size: 12px;
+    }
+    
+
+p.citat {
+    font-style: normal;
+    font-size: 12px;
+    border: 1px solid #000;
+    background-color: #FFFFCC;
+
+    }
+ p.citat1 {
+    font-style: normal;
+    font-size: 12px;
+    color: firebrick;
+    text-align: center;
+    text-decoration: underline;
+    }
+p.citat2 {
+    font-style: italic;
+    font-size: 12px;
+    color: #000;
+    text-align: right;
+}
+h1{
+    color: blue;
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+
+    
